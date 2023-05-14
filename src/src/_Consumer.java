@@ -16,6 +16,7 @@ public class _Consumer {
         System.out.println("Hello" + customer.customerName +", phone: "+customer.customerPhoneNumber);
     }
 
+
     static class Customer{
         private final String customerName;
 
